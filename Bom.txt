@@ -1,0 +1,15 @@
+.	40755	0/0
+./Applications	40755	0/0
+./Applications/UE4Editor.app	40755	0/0
+./Applications/UE4Editor.app/Contents	40755	0/0
+./Applications/UE4Editor.app/Contents/Info.plist	100644	0/0	1397	945498184
+./Applications/UE4Editor.app/Contents/MacOS	40755	0/0
+./Applications/UE4Editor.app/Contents/MacOS/applet	100755	0/0	25028	3014291475
+./Applications/UE4Editor.app/Contents/PkgInfo	100644	0/0	8	3187773124
+./Applications/UE4Editor.app/Contents/Resources	40755	0/0
+./Applications/UE4Editor.app/Contents/Resources/Scripts	40755	0/0
+./Applications/UE4Editor.app/Contents/Resources/Scripts/main.scpt	100644	0/0	380	2260495399
+./Applications/UE4Editor.app/Contents/Resources/applet.icns	100644	0/0	361528	56546462
+./Applications/UE4Editor.app/Contents/Resources/applet.rsrc	100644	0/0	362	3328819283
+./Applications/UE4Editor.app/Contents/Resources/description.rtfd	40755	0/0
+./Applications/UE4Editor.app/Contents/Resources/description.rtfd/TXT.rtf	100644	0/0	126	1701882933
